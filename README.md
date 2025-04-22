@@ -1,7 +1,7 @@
 # 💓 Heart Stroke Prediction using Machine Learning
 *A Hybrid Feature Selection Approach*
 
-**Author:** Harsha Vardhan Chikkala  
+**Author:** Sri Harsha Vardhan Chikkala  
 **Affiliation:** SRM University - AP, India
 
 ## 📘 Abstract
@@ -94,7 +94,3 @@ jupyter notebook Heart_Stroke_Prediction_using_Machine_Learning_A_hybrid_feature
 * Ensemble models (e.g., RF, XGBoost) show resilience to dimensional reduction.
 * SMOTE proves essential in addressing imbalanced classification tasks in healthcare datasets.
 
-## 🔭 Future Work
-* Integrate **Deep Learning models** (CNN, LSTM) for image + tabular hybrid data.
-* Apply this approach to other biomedical datasets.
-* Explore **AutoML frameworks** for optimization and deployment.
